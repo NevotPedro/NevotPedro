@@ -5,5 +5,5 @@
 ***
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevotPedro&layout=compact&bg_color=282828&ayout=compact&title_color=dbbd1c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevotPedro&layout=compact&bg_color=282828&layout=compact&title_color=dbbd1c&layout=compact&text_color=dbbd1c)
 
