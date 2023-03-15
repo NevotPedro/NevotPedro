@@ -5,5 +5,16 @@
 ***
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevotPedro&layout=compact&bg_color=282828&layout=compact&title_color=dbbd1c&layout=compact&text_color=dbbd1c)
 
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevotPedro&ayout=compact&bg_color=282828&title_color=dbbd1c&text_color=dbbd1c" />
+</p>
+
+
+# presentation
+
+<p align="center">💻 Programming</p>
+<p align="center">🎸 Soda Stereo</p>
+<p align="center">⭐⭐⭐ Argentina</p>
+<p align="center">1️⃣0️⃣ Years old</p>
